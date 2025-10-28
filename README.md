@@ -1,6 +1,6 @@
 💀 MINDCLICKERX – RED HACKER EDITION
 Autor: Hugo Farranha
-Versão: 3.3
+Versão: 3.4
 -------------------------------------------
 
 MindClickerX é um auto-clicker desktop avançado desenvolvido em Python com visual “Red Hacker”, interface moderna e som de inicialização.
